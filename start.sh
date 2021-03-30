@@ -3,14 +3,14 @@
 #İnstagram: @yamanefkarr
 #Youtube : Yamanefkar
 echo -e '\033[31;40;1m 
-		   ¦¦¦¦¦-¦---¦¦---¦-¦¦¦¦¦
-		   ¦¦¦¦??¦¦¦¦¦¦¦¦¦¦??¦¦¦¦
-		   ¦¦¦¦-?--¦¦--¦¦--?-¦¦¦¦
-		   ¦¦¦?--¦¦--¦¦--¦¦--?¦¦¦
-		   ¦¦------¦¦??¦¦------¦¦
+		    ─────█─▄▀█──█▀▄─█─────
+		   ────▐▌──────────▐▌────
+		   ────█▌▀▄──▄▄──▄▀▐█────
+		   ───▐██──▀▀──▀▀──██▌───
+		   ──▄████▄──▐▌──▄████▄──
       \e[35m      ?         Code  : YamanEfkar     ?
 	  \e[34m?	     Github : YamanEfkar       ?
-	 \e[33m?  	    Youtube : YamanEfkar        ?
+	 \e[33m?  	    Youtube
 	\e[32m? 	   İnstagram : @yamanefkarr      ?
 	
 	\e[36m 	 ?? ?? Türk Siber Timi ?? ??	
